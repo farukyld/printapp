@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-PrintappApplication<printapp>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "farukyld.printapp.PrintappApplication",
+      "projectName": "printapp",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
